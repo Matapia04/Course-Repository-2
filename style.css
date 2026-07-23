@@ -56,16 +56,16 @@ main {
 }
 .Row {
     display: flex;
-    align-items: center;
-    gap: 20px; 
+    align-items: flex-start;
+    gap: 25px; 
     background: #E9D39F;
     padding: 20px; 
     margin-bottom: 25px; 
     border-radius: 16px; 
 }
 .Row img{
-    width: 250px;
-    height: 125px; 
+    width: 300px;
+    height: auto; 
     object-fit: cover;
     border-radius: 10px; 
     flex-shrink: 0; 
