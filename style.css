@@ -29,7 +29,7 @@ main {
     display: flex; 
     flex-wrap: wrap; 
     justify-content: center; 
-    max-width: 400px; 
+    max-width: 1200px; 
     height: auto;
     margin: 50px auto; 
     gap: 30px; 
@@ -44,7 +44,7 @@ main {
     border: 1px solid black; 
 }
 .card-g img{
-    width: 350x; 
+    width: 325px; 
     height: auto; 
     object-fit: cover; 
     border-radius: 8px; 
