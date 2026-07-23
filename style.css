@@ -17,7 +17,7 @@ main {
     background-color: #ade4ea; 
 }
 .card {
-    text-align: left;
+    text-align: center; 
     margin-bottom: 40px; 
     background: #e9d39f; 
     border: 1px solid black; 
@@ -25,6 +25,16 @@ main {
 .card h1{
     margin-bottom: 20px;
 }
+.card-2 {
+    text-align: left; 
+    margin-bottom: 40px;
+    background: #E9D39F;
+    border: 1px solid black; 
+}
+.card-2 h1 {
+    margin-bottom: 20px; 
+}
+
 .gallery {
     display: flex; 
     flex-wrap: wrap; 
