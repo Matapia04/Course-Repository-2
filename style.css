@@ -17,7 +17,7 @@ main {
     background-color: #ade4ea; 
 }
 .card {
-    text-align: center; 
+    text-align: left;
     margin-bottom: 40px; 
     background: #e9d39f; 
     border: 1px solid black; 
@@ -86,4 +86,7 @@ main {
     color: #4561ae;
     font-weight: bold;
     margin-bottom: 10px;
+}
+ul {
+    padding-left: 40px; 
 }
