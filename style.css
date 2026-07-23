@@ -29,13 +29,13 @@ main {
     display: flex; 
     flex-wrap: wrap; 
     justify-content: center; 
-    max-width: 300px; 
+    max-width: 400px; 
     height: auto;
     margin: 50px auto; 
     gap: 30px; 
 }
 .card-g {
-    width: 300px; 
+    width: 350px; 
     background: #E9D39F;
     border-radius: 10px; 
     padding: 20px; 
@@ -44,7 +44,7 @@ main {
     border: 1px solid black; 
 }
 .card-g img{
-    width: 300px; 
+    width: 350x; 
     height: auto; 
     object-fit: cover; 
     border-radius: 8px; 
