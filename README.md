@@ -1,2 +1,4 @@
 # Course-Repository-2
-For Fundamentals of Computing Applications
+Purpose of this project here
+link to live website
+link to documentation folder
